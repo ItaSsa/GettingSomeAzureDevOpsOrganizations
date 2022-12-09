@@ -6,3 +6,8 @@ For this case, I created two Azure Devops Organizations and some projects under 
 
 ![The Organizations created](https://github.com/ItaSsa/GettingSomeAzureDevOpsOrganizations/blob/main/Proj01_ManyOrganizations.JPG)
 
+<br />
+
+I achivied this result:
+
+![The Result](https://github.com/ItaSsa/GettingSomeAzureDevOpsOrganizations/blob/main/Proj01_CsvResult.JPG)
